@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.heading {
+    text-align: center;
+    color: brown;
+}
+
+.text {
+    color: rgb(84, 84, 194);
+    text-align: center;
+}
